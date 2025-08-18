@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Red T-shirt",
+      "price": 499,
+      "image": "https://img.freepik.com/premium-photo/man-red-shirt-poses-front-grey-wall_862489-39733.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Blue Jeans",
+      "price": 999,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/0/a/3/32-udjeno1274-u-s-polo-assn-denim-co-original-imagtkqspgfxaehf.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "name": "Sneakers",
+      "price": 1499,
+      "image": "https://www.dmodot.com/cdn/shop/files/IMG_5784.jpg?v=1722330420&width=1512"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 799,
+      "image": "https://treknride.com/wp-content/uploads/2022/02/TNR-35L-3.jpg"
+    }
+  ]
+}
