@@ -1,3 +1,64 @@
+# 🛒 React Native E-Commerce App
+
+A mobile e-commerce application built with **React Native**, featuring product listing, cart management, quantity updates, total price calculation, and user authentication.  
+This project was developed during my internship at **Mankind Pharma** to strengthen my frontend development skills.
+
+---
+
+## 📱 Screenshots
+
+| Home Screen | Product Details | Cart Page |
+|-------------|----------------|-----------|
+| ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) | ![Cart](assets/screenshots/cart.png) |
+
+---
+
+## 🚀 Features
+
+- 🔑 **User Authentication** (Login with persistent sessions)  
+- 🛍️ **Product Listing** with dynamic rendering  
+- ➕➖ **Cart Management** (Add/Remove items, update quantity)  
+- 💰 **Total Price Calculation** using JavaScript `map()` and logic  
+- 🌐 **API Integration** with **Redux-Saga** and self-hosted JSON server  
+- 🔄 **State Management** with **Redux**  
+- 🎨 **Modern UI Design** with reusable React Native components  
+- 📦 Installed and configured various **third-party packages** as per project needs  
+
+---
+
+## ⚙️ Tech Stack
+
+- **Framework**: React Native  
+- **State Management**: Redux, Redux-Saga  
+- **Backend Mock API**: JSON Server  
+- **Navigation**: React Navigation  
+- **Development Tools**: Android Studio, Node.js, JDK  
+
+---
+
+📸 Assets
+👉 All screenshots are stored in assets/screenshots/ folder.
+Make sure to add your app screenshots there with names like home.png, details.png, cart.png.
+
+🙏 References
+React Native Documentation
+
+Redux Documentation
+
+YouTube Tutorials (Step by Step Guides)
+
+ChatGPT (for learning & debugging assistance)
+
+👨‍💻 Author
+Vishal Aggarwal
+Frontend Developer | React Native Enthusiast
+
+---
+
+✨ This is clean, professional, and **HR/mentor friendly**.  
+You just need to add real screenshots in `assets/screenshots/`.  
+
+Would you like me to also add a **GIF demo preview** section (like a short recording of the app in action)? That usu
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
