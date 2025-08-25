@@ -53,14 +53,6 @@ ChatGPT (for learning & debugging assistance)
 Vishal Aggarwal
 Frontend Developer | React Native Enthusiast
 
----
-
-✨ This is clean, professional, and **HR/mentor friendly**.  
-You just need to add real screenshots in `assets/screenshots/`.  
-
-Would you like me to also add a **GIF demo preview** section (like a short recording of the app in action)? That usu
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
