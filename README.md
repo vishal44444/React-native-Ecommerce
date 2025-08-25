@@ -7,9 +7,9 @@ This project was developed during my internship at **Mankind Pharma** to strengt
 
 ## 📱 Screenshots
 
-| Home Screen | Product Details | Cart Page |
+| login | dashboard | Cart Page |
 |-------------|----------------|-----------|
-| ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) | ![Cart](assets/screenshots/cart.png) |
+| ![Home](assets/screenshot/LOGIN.png) | ![Details](assets/screenshots/DASHBOARD.png) | ![Cart](assets/screenshots/CART.png) |
 
 ---
 
